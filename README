@@ -1,1 +1,5 @@
-`pre-commit run --all-files`
+# Implement Lambda data architecture on premise
+
+python 3.9
+airflow: 2.6.0
+dbt-core: 1.5.1

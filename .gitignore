@@ -159,3 +159,11 @@ cython_debug/
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 .idea/
 .DS_Store
+<<<<<<< Updated upstream
+src/logs/scheduler/latest
+=======
+batch/airflow-webserver.pid
+batch/airflow.cfg
+batch/airflow.db
+batch/dags/logs/scheduler/latest
+>>>>>>> Stashed changes
